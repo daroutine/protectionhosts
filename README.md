@@ -11,6 +11,7 @@
 ### Решение 1
 
 ![1](https://github.com/daroutine/protectionhosts/blob/main/1.jpg)
+
 ![2](https://github.com/daroutine/protectionhosts/blob/main/2.jpg)
 
 ### Задание 2
