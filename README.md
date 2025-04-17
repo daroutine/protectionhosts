@@ -25,10 +25,16 @@
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
 ### Решение 2
-![1](https://github.com/daroutine/protectionhosts/blob/main/2b.jpg)
-![2](https://github.com/daroutine/protectionhosts/blob/main/3b.jpg)
-![3](https://github.com/daroutine/protectionhosts/blob/main/4b.jpg)
-![4](https://github.com/daroutine/protectionhosts/blob/main/5b.jpg)
-![5](https://github.com/daroutine/protectionhosts/blob/main/6b.jpg)
-![6](https://github.com/daroutine/protectionhosts/blob/main/7b.jpg)
-![7](https://github.com/daroutine/protectionhosts/blob/main/8b.jpg)
+![1](https://github.com/daroutine/protectionhosts/blob/main/2b.jpg);
+
+![2](https://github.com/daroutine/protectionhosts/blob/main/3b.jpg);
+
+![3](https://github.com/daroutine/protectionhosts/blob/main/4b.jpg);
+
+![4](https://github.com/daroutine/protectionhosts/blob/main/5b.jpg);
+
+![5](https://github.com/daroutine/protectionhosts/blob/main/6b.jpg);
+
+![6](https://github.com/daroutine/protectionhosts/blob/main/7b.jpg);
+
+![7](https://github.com/daroutine/protectionhosts/blob/main/8b.jpg);
